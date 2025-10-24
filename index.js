@@ -13,7 +13,7 @@ try {
 
 // ✅ Group Info
 const GROUP_THREAD_ID = "1568123711014156";
-const LOCKED_GROUP_NAME = "❤ANSH RAJPOOT❤";
+const LOCKED_GROUP_NAME = "❤JAI RAJPUTAANA❤";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
